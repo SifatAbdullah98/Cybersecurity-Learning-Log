@@ -48,7 +48,9 @@ nmap 192.168.113.132
 ```bash
 nmap -sV -sC -O 192.168.113.132
 ```
-![Detailed Scan](screenshots/detailed_scan.png)
+![Detailed Scan(-sV)](screenshots/detailed_scan1.png)
+![Detailed Scan(-sC)](screenshots/detailed_scan2.png)
+![Detailed Scan(-o)](screenshots/detailed_scan3.png)
 
 ## Flags used:
 
