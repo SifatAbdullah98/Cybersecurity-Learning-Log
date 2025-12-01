@@ -35,7 +35,7 @@ This session marks the start of building consistent hands-on skills alongside my
 
 ### 1. Host Discovery (Ping Scan)
 ```bash
-ping 192.168.113.132
+nmap -sn 192.168.113.132
 ```
 ![Ping Scan](screenshots/ping_scan.png)
 ### 2️. Default Port Scan
