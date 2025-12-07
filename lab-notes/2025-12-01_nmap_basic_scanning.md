@@ -18,9 +18,6 @@ This session marks the start of building consistent hands-on skills alongside my
 - **Network:** Host‑only / NAT (both machines reachable in same network)  
 - **Target IP Discovered:** `192.168.113.132`
 
-*(Screenshots can be inserted using syntax:  
-`![alt text](screenshots/setup.png)`)*
-
 ---
 
 ## Objective of the Session
