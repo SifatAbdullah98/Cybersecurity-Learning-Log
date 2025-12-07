@@ -1,7 +1,7 @@
 # OWASP Juice Shop — Cat Photo URL Encoding Bypass
 
 **Date:** 2025-12-07  
-**Platform:** University CTF (ISY LiU)   
+**Platform:** Owasp Juice shop(For Course Computer Security by LiU)   
 **Category:** URL Encoding / Input Handling
 
 ---
