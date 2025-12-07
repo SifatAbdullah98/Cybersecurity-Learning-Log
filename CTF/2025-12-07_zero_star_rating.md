@@ -1,6 +1,6 @@
 # OWASP Juice Shop — Zero Star Rating
 
-**Date:** 2025-12-01  
+**Date:** 2025-12-07  
 **Platform:** University Computer Security Lab  
 **Type:** Client-Side Validation Bypass
 
