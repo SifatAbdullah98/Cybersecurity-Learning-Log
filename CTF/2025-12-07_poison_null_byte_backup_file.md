@@ -1,7 +1,7 @@
 # OWASP Juice Shop — Poison Null Byte Backup File Access
 
 **Date:** 2025-12-07  
-**Platform:** University Computer Security Lab  
+**Platform:** Owasp Juice shop(For Course Computer Security)  
 **Type:** Poison Null Byte / File Access Bypass
 
 ---
