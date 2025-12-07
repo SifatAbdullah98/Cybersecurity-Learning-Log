@@ -2,7 +2,6 @@
 
 **Date:** 2025-12-07  
 **Platform:** OWASP Juice Shop  
-**Difficulty:** Easy  
 
 ---
 
@@ -17,8 +16,7 @@ Find the carefully hidden "Score Board" page.
 3. Opened the `main.js` file from **Sources**.
 4. Searched for keywords like:
    - `score`
-   - `board`
-   - `admin`
+   - `path`
 5. Found the hidden scoreboard **URL path**.
 6. Copied the path and pasted it directly into the browser.
 7. Scoreboard page loaded successfully.
