@@ -1,29 +1,30 @@
-# Hidden Score Board Page Discovery — OWASP Juice Shop
+# Hidden Scoreboard Page – CTF Writeup
 
+**Date:** 2025-12-07  
 **Platform:** OWASP Juice Shop  
-**Category:** Information Disclosure  
+**Difficulty:** Easy  
 
 ---
 
-## Challenge Description
-The task was to locate the **hidden Score Board page** inside the OWASP Juice Shop application.
+## Challenge
+Find the carefully hidden "Score Board" page.
 
 ---
 
-## Solution
-
+## Method
 1. Opened **OWASP Juice Shop** in the browser.
-2. Right-clicked and selected **Inspect**.
-3. Navigated to the **main.js** file from the browser developer tools.
+2. Opened **Developer Tools → Inspect**.
+3. Opened the `main.js` file from **Sources**.
 4. Searched for keywords like:
    - `score`
-   - `path`
-5. After scrolling through the file, I found the hidden **Score Board URL path**.
-6. Pasted the discovered path directly into the browser.
-7. The Score Board page successfully loaded.
+   - `board`
+   - `admin`
+5. Found the hidden scoreboard **URL path**.
+6. Copied the path and pasted it directly into the browser.
+7. Scoreboard page loaded successfully.
 
 ---
 
 ## Result
-- Successfully accessed the **hidden Score Board page**
-- Challenge completed using **frontend source code inspection**
+Successfully discovered and accessed the hidden scoreboard page.
+
