@@ -6,7 +6,7 @@
 
 ---
 
-## 🔍 Challenge
+## Challenge
 
 A broken image appeared in the **Photo Wall**.  
 The goal was to access the hidden cat photo by fixing the improperly encoded URL.
@@ -16,7 +16,7 @@ Broken filename:
 
 ---
 
-## 🧠 Root Cause
+## Root Cause
 
 The application failed to properly **URL-encode special characters**:
 - Emoji (`😼`)
@@ -26,7 +26,7 @@ Because of this, the browser could not load the image.
 
 ---
 
-## ⚔️ Solution
+## Solution
 
 ### 1. Inspect the broken image
 Found the raw filename inside the `src` attribute.
