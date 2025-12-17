@@ -1,4 +1,4 @@
-# Hidden Scoreboard Page – CTF Writeup
+# OWASP Juice Shop - Hidden Scoreboard Page
 
 **Date:** 2025-12-07  
 **Platform:** OWASP Juice Shop  
