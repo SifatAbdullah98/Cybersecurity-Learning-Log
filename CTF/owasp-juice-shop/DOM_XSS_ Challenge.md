@@ -1,8 +1,7 @@
 # OWASP Juice Shop — DOM XSS Challenge
 
 **Date:** 2025-12-17  
-**Platform:** OWASP Juice Shop  
-**Course:** Computer Security (MSc Cybersecurity, Linköping University)   
+**Platform:** OWASP Juice Shop     
 
 ---
 
