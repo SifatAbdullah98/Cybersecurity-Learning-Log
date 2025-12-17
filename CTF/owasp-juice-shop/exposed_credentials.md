@@ -1,6 +1,6 @@
 # OWASP Juice Shop — Hardcoded Test Credentials
 
-**Date:** 2025-12-07  
+**Date:** 2025-12-17
 **Platform:** OWASP Juice Shop  
 
 ---
