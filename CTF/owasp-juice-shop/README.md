@@ -7,7 +7,6 @@ This folder contains my **CTF challenge writeups from the OWASP Juice Shop envir
 ## What This Folder Contains
 - Short, clear writeups of solved Juice Shop challenges  
 - Practical exploitation techniques  
-- Lessons learned from each task
 
 ---
 
