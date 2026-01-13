@@ -14,6 +14,8 @@ This folder contains my **CTF challenge writeups from the OWASP Juice Shop envir
 - Track my **hands-on web security progress**
 - Support my **academic lab assessments**
 - Build a **practical cybersecurity portfolio**
+
+  ![Screenshot](screenshots/flaggjakt_OwaspJuiceShop.png)
   
 
 
