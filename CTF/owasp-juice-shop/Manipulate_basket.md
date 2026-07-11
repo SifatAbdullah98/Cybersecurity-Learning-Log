@@ -31,6 +31,6 @@ Add an item to **another user’s shopping basket** without tampering with the a
 
 ## Key Takeaway
 The server only validated the first occurrence of the `BasketId` parameter but used a later one to perform the action.  
-This is a practical example of **HTTP Parameter Pollution (HPP)**, where duplicate parameters with different values cause the backend to behave unexpectedly. Documentation from OWASP notes that handling multiple parameters of the same name can lead to unexpected behavior and potential exploitation. :contentReference[oaicite:0]{index=0}
+This is a practical example of **HTTP Parameter Pollution (HPP)**, where duplicate parameters with different values cause the backend to behave unexpectedly. Documentation from OWASP notes that handling multiple parameters of the same name can lead to unexpected behavior and potential exploitation. 
 
 Proper server-side validation must ensure a single, trusted parameter value is used and reject any duplicates or conflicting entries to prevent this type of bypass.
